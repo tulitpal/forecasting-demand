@@ -1,0 +1,52 @@
+drug_id,dosage_form,therapeutic_category
+1885,Tablet,Pain Relief
+1993,Tablet,Pain Relief
+2539,Tablet,Pain Relief
+1248,Tablet,Cardiovascular
+2631,Tablet,Cardiovascular
+1311,Extras,Pain Relief
+1062,Tablet,Antibiotics
+1778,Tablet,Antibiotics
+1803,Extras,Pain Relief
+1198,Extras,Pain Relief
+2707,Tablet,Antibiotics
+1847,Powder,Pain Relief
+1438,Powder,Pain Relief
+2494,Powder,Pain Relief
+2760,Patches,Pain Relief
+2490,Ointment,Antibiotics
+1109,Syrup,Cardiovascular
+2290,Syrup,Cardiovascular
+1525,Patches,Pain Relief
+2704,Patches,Pain Relief
+1878,Drops,Pain Relief
+2640,Drops,Pain Relief
+2577,Drops,Pain Relief
+1754,Capsule,Antibiotics
+1971,Capsule,Antibiotics
+2306,Lozenge,Antibiotics
+2139,Tablet,Cardiovascular
+2826,Capsule,Antibiotics
+2664,Ointment,Antibiotics
+2569,Ointment,Antibiotics
+1230,Tablet,Respiratory
+1207,Tablet,Respiratory
+2322,Tablet,Respiratory
+2492,Implant,Cardiovascular
+1216,Lozenge,Antibiotics
+1727,Syrup,Cardiovascular
+1902,Injection,Cardiovascular
+1247,Injection,Cardiovascular
+2304,Implant,Cardiovascular
+1543,Implant,Cardiovascular
+1770,Injection,Cardiovascular
+2126,Lozenge,Antibiotics
+1558,Gel,Respiratory
+2581,Gel,Respiratory
+1962,Gel,Respiratory
+1571,Solution,Respiratory
+2956,Solution,Respiratory
+2104,Solution,Respiratory
+2444,Inhaler,Respiratory
+2867,Inhaler,Respiratory
+1445,Inhaler,Respiratory
